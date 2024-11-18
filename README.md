@@ -8,7 +8,7 @@ I’m an advocate for **ethical hacking**, **cloud security**, and **AI-driven i
 
 With experience in both **cybersecurity** and **cloud technologies**, I also have a keen interest in **software development**, **machine learning**, and **programming language design**. Currently, I am also focusing on launching a **student organization** – **Sparrow Security Student Society** – that emphasizes **Red & Blue team operations** in ethical hacking.
 
-I am now have extreme focus on **Chaos Engingeering**, **DevSecOps**, and **FinOps**
+Have extreme focus on **Chaos Engingeering**, **DevSecOps**, and **FinOps**
 
 ## Skills
 
