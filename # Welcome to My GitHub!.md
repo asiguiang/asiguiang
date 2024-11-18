@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-👋 Hi, I'm **Isaeus Guiang** – a passionate technologist, advocate for IT industry gap solutions, and aspiring entrepreneur in the world of cybersecurity and tech law.
+👋 Hi, I'm **Isaeus Guiang** – a passionate technologist, advocate for IT industry gap solutions, exploring in the world of cybersecurity and tech law.
 
 ## About Me
 
