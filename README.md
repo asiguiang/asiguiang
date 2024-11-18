@@ -1,6 +1,6 @@
 # Hello!
 
-👋 Hi, I'm **Isaeus Guiang** – a passionate technologist, advocate for IT industry gap solutions, and exploring in the world of cybersecurity and tech law.
+👋 Hi, I'm **Isaeus Guiang** – a passionate technologist, advocate for IT industry gap solutions, and exploring in the world of cybersecurity.
 
 ## About Me
 
@@ -19,5 +19,5 @@ Have extreme focus on **Chaos Engingeering**, **DevSecOps**, and **FinOps**
 
 ## Let’s Connect!
 
-Feel free to reach out to me for collaborations, questions, or insights about **cybersecurity**, **cloud tech**, or **tech law**.
+Feel free to reach out to me for collaborations, questions, or insights about **cybersecurity**, **cloud tech**, or **management leadership**.
 
