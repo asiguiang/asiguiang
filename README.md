@@ -21,6 +21,6 @@ Have extreme focus on **Chaos Engingeering**, **DevSecOps**, and **FinOps**
 
 Feel free to reach out to me for collaborations, questions, or insights about **cybersecurity**, **cloud tech**, or **management leadership**.
 
-![It's Obsession GIF](https://media.tenor.com/7QbncItYF8gAAAAC/its-obsession-james-saito.gif)
+
 
 
