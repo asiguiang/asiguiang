@@ -12,7 +12,7 @@ Have extreme focus on **Chaos Engingeering**, **DevSecOps**, and **FinOps**
 
 - **Cybersecurity**: Penetration Testing, Vulnerability Assessment, Risk Management, Compliance
 - **Cloud Computing**: AWS, Cloud Security, Solutions Architecture
-- **Programming**: Python, React
+- **Programming**: Python, React, TypeScript
 - **Leadership**: Event coordination, mentoring, and organizational strategy.
 
 ## Let’s Connect!
